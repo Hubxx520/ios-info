@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">ios-info</string>
+    <string name="title_activity_main">ios-info</string>
+    <string name="package_name">com.example.iosinfo</string>
+    <string name="custom_url_scheme">com.example.iosinfo</string>
+</resources>
